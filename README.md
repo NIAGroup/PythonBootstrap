@@ -6,7 +6,7 @@ https://github.com/
 
 Install Slack
 https://slack.com/get-started
-Note: Phone Application Also Available
+* Note: Phone Application Also Available
 
 Join Nia Slack Organization
 https://nia-org.slack.com
