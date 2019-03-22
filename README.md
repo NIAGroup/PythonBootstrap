@@ -35,11 +35,10 @@ This is the repository to be used by those interested in boot strapping their en
    > **cleanenv** - Used to remove virtual environment build folder and exit environment if it's active
 
 8. Clone repository:
-   > ``https://github.com/NIAGroup/PythonBootstrap```
+   > ``git clone https://github.com/NIAGroup/PythonBootstrap```
 
 9. Enable git flow:
    ```bash
    cd <repo_path>
    git flow init
    ```
-10. Clone this repository
