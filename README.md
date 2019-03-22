@@ -42,4 +42,4 @@ This is the repository to be used by those interested in boot strapping their en
    cd <repo_path>
    git flow init
    ```
-
+10. Clone this repository
